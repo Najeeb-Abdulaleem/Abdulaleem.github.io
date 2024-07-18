@@ -1,55 +1,62 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- 2007–2008 Teacher, Ministry of Education, Al-Mahrah, Yemen.
+- 2008–2013 Lecturer, Hadhramout University, Al-Mahrah, Yemen.
+- 2011–2012 Lecturer, University of Science and Technology, Al-Mahrah, Yemen.
+- 2018–2024 Lecturer, University of Lodz, Lodz, Poland.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1.   N. Abdulaleem, E-Univex Sets, E-Univex Functions and E-Differentiable E-Univex Programming, Results in Mathematics, 2023, 78 (1), 1-22. 
+2.  T. Antczak, N. Abdulaleem, E-optimality conditions and Wolfe E-duality for E-differentiable vector optimization problems with inequality and equality constraints,
+    Journal of Nonlinear Sciences and Applications, 12, 745-764.
+3.  N. Abdulaleem, E-duality results for E-differentiable vector optimization problems
+    under (generalized) E-convexity, Proceedings Book of ICRAPAM, (2019), 9-26.
+4.  T. Antczak, N. Abdulaleem, E-saddle point criteria for E-differentiable vector optimization problems with inequality and equality constraints, Journal of Mathematics
+   and Statistics, 15, 86-98.
+5.  N. Abdulaleem, E-invexity and generalized E-invexity in E-differentiable multiobjective programming, In ITM Web of Conferences (Vol. 24, p. 01002), EDP
+    Sciences.
+6.   N. Abdulaleem, E-duality results for E-differentiable E-invex multiobjective programming problems, In Journal of Physics: Conference Series (Vol. 1294, No. 3,
+     032027), IOP Publishing.
+7.   N. Abdulaleem, E-optimality conditions for E-differentiable E-invex multiobjective programming problems., WSEAS Transactions on Mathematics, volume 18, 14-27.
+8.  T. Antczak, N. Abdulaleem, Optimality and duality results for E-differentiable multiobjective fractional programming problems under E-convexity, Journal of
+    Inequalities and Applications, 2019(1), 292.
+9.  T. Antczak, N. Abdulaleem, Optimality conditions for E-differentiable vector optimization problems with the multiple interval-valued objective function, Journal of Industrial and Management 
+    Optimization, 16(6), 2971-2989.
+10. N. Abdulaleem, Wolfe E-duality for E-differentiable E-invex vector optimization problems with inequality and equality constraints, ICAMCS. NET. IEEE, 156-163.
+11. N. Abdulaleem, E-saddle point criteria for a class of E-differentiable E-invex multiobjective programming problems, Recent Advances in Nonlinear Analysis and
+    Optimization with Applications, 1-21.
+12. N. Abdulaleem, Optimality conditions for E-differentiable fractional under Einvexity, Journal of Mathematical Analysis, 11(6), 17-26.
+13.  N. Abdulaleem, V-E-invexity in E-differentiable multiobjective programming, Numer Algebra Control Optim, 12(2), 427-443, https://doi.org/10.3934/naco.2021014.
+14. N. Abdulaleem, KT-E-invexity in E-differentiable vector optimization problems, In Journal of Physics: Conference Series, (Vol. 1900, No. 1, p. 012001), IOP
+    Publishing.
+15. N. Abdulaleem, Parametric E-differentiable multiobjective fractional programming under E-invexity, International Journal of Scientific & Engineering Research, Volume,
+    12 (4), 61-66
+16. 2021 T. Antczak, N. Abdulaleem, E-differentiable minimax programming under Econvexity, Annals of Operations Research, 300(1), 1-22.
+17. N. Abdulaleem, E-duality results for E-differentiable vector optimization problems involving E-type I functions, Journal of Statistics and Management Systems, 1-13.
+18  N. Abdulaleem, Mixed E-duality for E-differentiable Vector Optimization Problems Under (Generalized) V-E-invexity, Operations Research Forum, 2 (3), 1-18.
+19. N. Abdulaleem, Sufficiency and duality for E-differentiable multiobjective programming problems involving generalized V-E-invex functions, Communications on
+    Applied Nonlinear Analysis, 28 (2021), 4, 85-104.
+20. N. Abdulaleem, E-B-invexity in E-differentiable mathematical programming, Results in Control and Optimization, 4, 100046.
+21. N. Abdulaleem, Optimality and duality for E-differentiable multiobjective programming problems involving E-type I functions, Journal of Industrial & Management
+    Optimization, 19(2), 1513-1527.
+22. N. Abdulaleem, Wolfe E-duality for E-differentiable vector optimization problems in E-invex with inequality and equality constraints, WSEAS Transactions on
+    Mathematics, 17, 329-339, 2018.
+23 N. Abdulaleem, Optimality conditions in a class of generalized convex optimization problems with the multiple interval-valued objective function, Systems and Soft
+   Computing, 200056.
+24. N. Abdulaleem, Optimality conditions for a class of E-differentiable vector optimization problems with interval-valued objective functions under E-invexity, International
+    Journal of Computer Mathematics , 100(7), 1601-1624.
+25. N. Abdulaleem, S. Treanţă, Optimality conditions and duality for E-differentiable multiobjective programming involving V-E-type I functions, OPSEARCH, 2023, 1-20.
+26. T. Antczak, N. Abdulaleem, On the exactness and the convergence of the l1 exact penalty E-function method for E-differentiable optimization problems, OPSEARCH,
+    2023, 1-29 .
+27. T. Antczak, N. Abdulaleem, E-subdifferential of E-convex functions and its applications to minimization problem, has been accepted for publication in the
+    Taiwanese Journal of Mathematics, 2023 .
+28. T. Antczak, N. Abdulaleem, On vector variational E-inequalities and differentiable vector optimization problem, has been accepted for publication in OPSEARCH,
+    2023.
+29. N. Abdulaleem, Exponentially E-convex vector optimization problems, Journal of Industrial and Management Optimization, 2024 .
+30. N. Abdulaleem, J.Cen, K. Das, Sufficiency and duality for E-differentiable vector optimization problems under generalized convexity, Hacettepe Journal of Mathematics & Statistics, 2024
 
-- [Data Science Blog](https://medium.com/@shawhin)
