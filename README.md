@@ -60,7 +60,7 @@
 29. N. Abdulaleem, Exponentially E-convex vector optimization problems, Journal of Industrial and Management Optimization, 2024 .
 30. N. Abdulaleem, J.Cen, K. Das, Sufficiency and duality for E-differentiable vector optimization problems under generalized convexity, Hacettepe Journal of Mathematics & Statistics, 2024
 
-    ##Talks
+## Talks
 1.  N. Abdulaleem, Wolfe E-duality for E-differentiable Vector Optimization Problems in E-invex with Inequality and Equality Constraints, **The International Conference on Applied Mathematics & Computational Science, Budapest, Hungary, October 6-8, 2018**.
 2.  N. Abdulaleem, E-invexity and generalized E-invexity in Edifferentiable multiobjective programming, **the 3rd International Conference Applied Mathematics, Computational Science and Systems Engineering (AMCSE 2018) Rome, Italy, November 23-25, 2018.**
 3. N. Abdulaleem, E-duality results for E-differentiable E-invex multiobjective programming problems, **International Scientific Conference (2nd ISC) on the 24-25th April 2019, Al-Qadisiyah, Iraq.**
